@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "ANAL LOG ?( `Д' ?)"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "_"
+description              : ""
 url                      : "https://dokko.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,10 +106,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "dokko"
+  avatar           : "https://s.gravatar.com/avatar/b3aa388dec7c6422007b31f7bde473d5?s=500"
+  bio              : ""
+  location         : ""
   email            :
   links:
     - label: "Email"
